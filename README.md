@@ -1,7 +1,9 @@
 ### Hi there 👋
-# [Tu nombre](https://tu-sitio-web.com)
+# [Fauner Echeverri]
 
-Soy un(a) [descripción de tu profesión] apasionado(a) por [menciona tus intereses]. Tengo experiencia en [enumera tus habilidades] y disfruto de [menciona actividades relacionadas al desarrollo].
+Estudiante de Ingeniería de Software | Desarrollador Junior
+
+Apasionado por el desarrollo, actualemente adquiriendo experiencia como desarrollador junior. Me encanta codificar y crear nuevas interfaces de usuario y funcionalidades. Siempre buscando nuevos proyectos en los que aprender y crecer.
 
 ## Proyectos destacados
 
