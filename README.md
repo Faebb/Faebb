@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Fauner Echeverri
 
-Estudiante de Ingeniería de Software | Desarrollador Junior #
+Estudiante de Ingeniería de Software | Desarrollador Junior 
 Apasionado por el desarrollo, actualemente adquiriendo experiencia como desarrollador junior. Me encanta codificar y crear nuevas interfaces de usuario y funcionalidades. Siempre buscando nuevos proyectos en los que aprender y crecer.
 
 ## Proyectos destacados
