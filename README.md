@@ -14,7 +14,7 @@ Planificando nuevos proyectos...
 
 ## Experiencia
 
-* Pasante de desarrollo en [ETIB S.A.S]([https://etib.com.co/])
+* Pasante de desarrollo en [ETIB S.A.S](https://etib.com.co/)
 
 ## Habilidades
 
