@@ -3,32 +3,30 @@
 
 Estudiante de Ingeniería de Software | Desarrollador Junior 
 
-Apasionado por el desarrollo, actualemente adquiriendo experiencia como desarrollador junior. Me encanta codificar y crear nuevas interfaces de usuario y funcionalidades. Siempre buscando nuevos proyectos en los que aprender y crecer.
+Apasionado por el desarrollo, actualemente adquiriendo experiencia como pasante desarrollador junior. Me encanta codificar y crear nuevas interfaces de usuario y funcionalidades. Siempre buscando nuevos proyectos en los que aprender y crecer.
 
 ## Proyectos destacados
 
-* [Nombre del proyecto 1]([Enlace al repositorio])
-* [Nombre del proyecto 2]([Enlace al repositorio])
-* [Nombre del proyecto 3]([Enlace al repositorio])
+* [Api del proyecto sinov](https://github.com/Faebb/api_sisinov)
+* [Front del proyecto sinov](https://github.com/luiscarlosmedina/asocivica)
+
+Planificando nuevos proyectos...
 
 ## Experiencia
 
-* [Cargo actual] en [Nombre de la empresa] ([Enlace a la empresa])
-* [Cargo anterior] en [Nombre de la empresa] ([Enlace a la empresa])
-* [Más experiencia relevante]
+* [Pasante de desarrollo] en [ETIB S.A.S]([https://etib.com.co/])
 
 ## Habilidades
 
-* [Lenguajes de programación]
-* [Frameworks]
-* [Herramientas]
+* Lenguajes de programación: || PHP || C# || .NET || Python || JS ||
+* Frameworks: || Laravel || Blazor || Django || React || NextJS || 
+* Herramientas: || Visual Studio || Visual Studio Code ||
 
 ## Contáctame
 
-* Correo electrónico: [tu-correo-electrónico]
-* [Perfil de GitHub](https://docs.github.com/articles/about-your-profile)
-* [Perfil de LinkedIn](https://www.linkedin.com/)
-* [Otras redes sociales]([Enlace a tus redes sociales])
+* Correo electrónico: faeb265@gmail.com
+* [Perfil de LinkedIn](https://www.linkedin.com/in/faunerecheverri/)
+* [Instagram]([https://www.instagram.com/faeb_26])
 
 ## ¡Estoy abierto a colaboraciones!
 
