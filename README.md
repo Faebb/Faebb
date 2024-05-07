@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Fauner Echeverri
+# Fauner Echeverri 👨‍💻
 
 Estudiante de Ingeniería de Software | Desarrollador Junior 
 
@@ -14,7 +14,7 @@ Planificando nuevos proyectos...
 
 ## Experiencia
 
-* [Pasante de desarrollo] en [ETIB S.A.S]([https://etib.com.co/])
+* Pasante de desarrollo en [ETIB S.A.S]([https://etib.com.co/])
 
 ## Habilidades
 
@@ -26,7 +26,7 @@ Planificando nuevos proyectos...
 
 * Correo electrónico: faeb265@gmail.com
 * [Perfil de LinkedIn](https://www.linkedin.com/in/faunerecheverri/)
-* [Instagram]([https://www.instagram.com/faeb_26])
+* [Instagram](https://www.instagram.com/faeb_26)
 
 ## ¡Estoy abierto a colaboraciones!
 
