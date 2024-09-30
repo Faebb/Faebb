@@ -7,8 +7,9 @@ Apasionado por el desarrollo, actualemente adquiriendo experiencia como pasante 
 
 ## Proyectos destacados
 
-* [Api del proyecto sinov](https://github.com/Faebb/api_sisinov)
-* [Front del proyecto sinov](https://github.com/luiscarlosmedina/asocivica)
+* [Api del proyecto siemnov](https://github.com/Faebb/api_sisinov)
+* [Front del proyecto siemnov](https://github.com/luiscarlosmedina/asocivica)
+* [Sinov proyecto en curso](https://github.com/Faebb/Sinov)
 
 Planificando nuevos proyectos...
 
