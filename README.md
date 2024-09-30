@@ -15,6 +15,7 @@ Planificando nuevos proyectos...
 ## Experiencia
 
 * Pasante de desarrollo en [ETIB S.A.S](https://etib.com.co/)
+* Semi-Senior FullStack en [ETIB S.A.S](https://etib.com.co/)
 
 ## Habilidades
 
